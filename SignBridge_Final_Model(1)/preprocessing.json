@@ -1,0 +1,14 @@
+{
+  "input_type": "landmark_vector",
+  "landmarks": 21,
+  "coordinates_per_landmark": [
+    "x",
+    "y",
+    "z"
+  ],
+  "feature_count": 63,
+  "flatten_order": "x1,y1,z1,...,x21,y21,z21",
+  "normalization": "MinMaxScaler",
+  "scaler_fitted_on": "training_data_only",
+  "scaler_required_for_inference": true
+}

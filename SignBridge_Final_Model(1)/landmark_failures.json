@@ -1,0 +1,1662 @@
+[
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand4_0_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand1_0_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand3_0_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand3_0_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand1_0_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand1_0_top_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand5_0_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand5_0_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand4_0_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand5_0_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand1_0_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand1_0_top_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand4_0_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand3_0_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand4_0_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand4_0_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "0",
+    "path": "/content/signbridge_raw_dataset/0/hand5_0_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "1",
+    "path": "/content/signbridge_raw_dataset/1/hand5_1_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "2",
+    "path": "/content/signbridge_raw_dataset/2/hand1_2_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "2",
+    "path": "/content/signbridge_raw_dataset/2/hand1_2_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "6",
+    "path": "/content/signbridge_raw_dataset/6/hand1_6_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "8",
+    "path": "/content/signbridge_raw_dataset/8/hand4_8_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand4_a_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand1_a_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand4_a_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand5_a_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand1_a_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand4_a_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand1_a_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand1_a_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand4_a_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "a",
+    "path": "/content/signbridge_raw_dataset/a/hand2_a_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand4_c_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand5_c_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand4_c_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand1_c_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand1_c_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand1_c_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand1_c_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand1_c_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "c",
+    "path": "/content/signbridge_raw_dataset/c/hand2_c_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand3_e_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand5_e_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand5_e_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand4_e_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand4_e_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand3_e_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand4_e_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_top_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand3_e_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand2_e_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand3_e_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand4_e_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand1_e_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand5_e_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "e",
+    "path": "/content/signbridge_raw_dataset/e/hand2_e_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "g",
+    "path": "/content/signbridge_raw_dataset/g/hand1_g_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "g",
+    "path": "/content/signbridge_raw_dataset/g/hand1_g_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "g",
+    "path": "/content/signbridge_raw_dataset/g/hand1_g_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "h",
+    "path": "/content/signbridge_raw_dataset/h/hand1_h_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand5_i_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand5_i_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "i",
+    "path": "/content/signbridge_raw_dataset/i/hand1_i_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand2_j_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand2_j_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand3_j_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand3_j_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand5_j_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand3_j_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand3_j_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand3_j_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "j",
+    "path": "/content/signbridge_raw_dataset/j/hand1_j_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand4_m_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand4_m_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand5_m_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand4_m_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand1_m_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand4_m_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "m",
+    "path": "/content/signbridge_raw_dataset/m/hand2_m_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand4_n_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand3_n_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand4_n_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand4_n_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand3_n_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand3_n_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand5_n_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand2_n_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "n",
+    "path": "/content/signbridge_raw_dataset/n/hand1_n_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand5_o_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand2_o_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand4_o_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand4_o_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand4_o_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand5_o_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand5_o_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand2_o_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand5_o_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand2_o_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand2_o_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand3_o_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_top_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "o",
+    "path": "/content/signbridge_raw_dataset/o/hand1_o_top_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "p",
+    "path": "/content/signbridge_raw_dataset/p/hand5_p_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand3_q_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_top_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand5_q_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand3_q_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand3_q_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_top_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_top_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand1_q_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand5_q_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand3_q_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "q",
+    "path": "/content/signbridge_raw_dataset/q/hand3_q_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand2_r_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "r",
+    "path": "/content/signbridge_raw_dataset/r/hand1_r_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_top_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand4_s_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_top_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand4_s_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand4_s_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand5_s_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand3_s_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand1_s_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "s",
+    "path": "/content/signbridge_raw_dataset/s/hand2_s_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand3_t_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_top_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand3_t_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand4_t_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_dif_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_bot_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand3_t_dif_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_dif_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand3_t_dif_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand5_t_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand2_t_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "t",
+    "path": "/content/signbridge_raw_dataset/t/hand1_t_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_right_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_right_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_top_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_top_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_right_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_right_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_right_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand5_x_dif_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "x",
+    "path": "/content/signbridge_raw_dataset/x/hand1_x_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand5_y_bot_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand2_y_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand2_y_left_seg_3_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand5_y_bot_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand5_y_bot_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand2_y_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand2_y_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand1_y_left_seg_1_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "y",
+    "path": "/content/signbridge_raw_dataset/y/hand2_y_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "z",
+    "path": "/content/signbridge_raw_dataset/z/hand5_z_bot_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "z",
+    "path": "/content/signbridge_raw_dataset/z/hand1_z_left_seg_5_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "z",
+    "path": "/content/signbridge_raw_dataset/z/hand1_z_left_seg_4_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  },
+  {
+    "class": "z",
+    "path": "/content/signbridge_raw_dataset/z/hand1_z_left_seg_2_cropped.jpeg",
+    "reason": "No valid hand landmark detection"
+  }
+]
